@@ -1,5 +1,5 @@
 # Repositorio de angel
-avatar.jpg
+(img/avatar.jpg)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
